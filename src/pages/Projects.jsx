@@ -67,7 +67,7 @@ const projects = [ {
 
 
 
-export default function Project() {
+export default function Projects() {
 
         useFetch('../project.json')
 
