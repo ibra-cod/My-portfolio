@@ -1,8 +1,8 @@
 
 export default function HomePage() {
   return (
-    <section className="section max-w-screen-2xl mx-auto flex justify-center items-center mb-10">
-        <div className="div bg-yellow-50 ">
+   
+        <div className="w-full bg-yellow-50 m-60">
                 <h1 className="font-bold fonts text-5xl ">Hi ! I'm Ibrahim</h1>
                 <div>
                         <p className="font-light text-xl"> I’am a web developper student at hetic
@@ -13,6 +13,6 @@ export default function HomePage() {
                         </p>
                 </div>
         </div>
-    </section>
+
   )
 }

@@ -4,7 +4,6 @@ import Textarea from "../Components/textarea";
 
 export default function Contact() {
   return (
-       <section className="section max-w-screen-2xl mx-auto flex justify-center items-center mt-16">
             <div className=" w-4/5 bg-indigo-700 rounded-lg text-white   mt-10 flex p-5">
                         <div className=" mt-10 m-5 w-6/12">
                            <div>
@@ -30,7 +29,6 @@ export default function Contact() {
                             </div>
                         </div>
             </div>
-        </section>
   )
 }
 

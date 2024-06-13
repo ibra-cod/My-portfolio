@@ -12,7 +12,7 @@
 
     {
         "id" : 2,
-        "name" : "TODOLIST APP",
+        "name" : "RECIPES APP",
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum atque veniam deleniti. A, nam! Recusandae ipsa, magnam dolores cum assumenda dolorum, enim maiores est animi a deserunt repudiandae eligendi numquam?",
         "tags" : [
                 "Javascrpit", "PHP", "MYSQL", "HTML" ,  "CSS"
@@ -22,7 +22,7 @@
 
     {
         "id" : 3,
-        "name" : "TODOLIST APP",
+        "name" : "MY PORTFOLIO",
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum atque veniam deleniti. A, nam! Recusandae ipsa, magnam dolores cum assumenda dolorum, enim maiores est animi a deserunt repudiandae eligendi numquam?",
         "tags" : [
                 "Javascrpit", "PHP", "MYSQL", "HTML" ,  "CSS"
@@ -32,35 +32,12 @@
 
     {
         "id" : 4,
-        "name" : "TODOLIST APP",
-        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum atque veniam deleniti. A, nam! Recusandae ipsa, magnam dolores cum assumenda dolorum, enim maiores est animi a deserunt repudiandae eligendi numquam?",
+        "name" : "KENNI PROJECT",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum atque veniam deleniti. A, nam! ",
         "tags" : [
                 "Javascrpit", "PHP", "MYSQL", "HTML" ,  "CSS"
         ],
         "image" : "src/images/ales-nesetril-Im7lZjxeLhg-unsplash 1.png"
     }
-    ,
-    {
-        "id" : 5,
-        "name" : "TODOLIST APP",
-        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum atque veniam deleniti. A, nam! Recusandae ipsa, magnam dolores cum assumenda dolorum, enim maiores est animi a deserunt repudiandae eligendi numquam?",
-        "tags" : [
-                "Javascrpit", "PHP", "MYSQL", "HTML" ,  "CSS"
-        ],
-        "image" : "src/images/ales-nesetril-Im7lZjxeLhg-unsplash 1.png"
-    }
-
-    ,
-    {
-        "id" : 6,
-        "name" : "TODOLIST APP",
-        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum atque veniam deleniti. A, nam! Recusandae ipsa, magnam dolores cum assumenda dolorum, enim maiores est animi a deserunt repudiandae eligendi numquam?",
-        "tags" : [
-                "Javascrpit", "PHP", "MYSQL", "HTML" ,  "CSS"
-        ],
-        "image" : "src/images/ales-nesetril-Im7lZjxeLhg-unsplash 1.png"
-    }
-
-
 
 ]
